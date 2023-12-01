@@ -1,2 +1,1 @@
-# sta
-rnetprok
+# starnetprok
